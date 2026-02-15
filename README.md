@@ -189,17 +189,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?user=sania8&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF)
-
-<!-- Alternative Top Languages -->
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sania8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF)
-
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sania8&theme=radical&hide_border=true&background=0D1117&ring=667EEA&fire=667EEA&currStreakLabel=667EEA)
-
-</div>
 
 ---
 

@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sania Verma!
+# Hi, I'm Sania Verma!
 
 <div align="center">
   
@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 **M.Sc. in Artificial Intelligence** @ City St. George's University of London (2025-2026)
 - 🎓 **B.Tech. in Mechanical Engineering** (CS Specialization) @ DEI, Agra (8.1 CGPA)
@@ -27,11 +27,11 @@
 
 ---
 
-## 🏆 Achievements & Impact
+## Achievements & Impact
 
 <div>
 
-🎯 Achievement 
+Achievement 
 
 1. **Research Papers Published**  2 International Conferenes, 2 Journals (In Press)
 
@@ -43,7 +43,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -92,40 +92,40 @@
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🧮 [MathSolver Pro / SolWise](https://github.com/sania-verma/mathsolver-pro)
+### [MathSolver Pro / SolWise](https://github.com/sania-verma/mathsolver-pro)
 > AI-powered mathematics learning platform with 12+ unique features
 
 **Tech Stack:** Flask • Groq LLaMA 3.1 • Plotly • SymPy • JavaScript
 
 **Key Features:**
-- ✅ Instant problem solving with step-by-step explanations
-- ✅ Alternative solving methods & practice problem generation
-- ✅ Real-world application examples & difficulty ladder
-- ✅ Interactive visualizations (functions, geometry, statistics)
-- ✅ File upload support (PDF, DOCX, PPTX)
-- ✅ Tutor mode with hints & concept mapping
+- Instant problem solving with step-by-step explanations
+- Alternative solving methods & practice problem generation
+- Real-world application examples & difficulty ladder
+- Interactive visualizations (functions, geometry, statistics)
+- File upload support (PDF, DOCX, PPTX)
+- Tutor mode with hints & concept mapping
 
-🔗 [Live Demo](https://mathsolver-pro.onrender.com) | 📖 [Documentation](https://github.com/sania-verma/mathsolver-pro#readme)
+[Live Demo](https://mathsolver-pro.onrender.com) | 📖 [Documentation](https://github.com/sania-verma/mathsolver-pro#readme)
 
 ---
 
-### 🌐 Web Summarizer Chrome Plugin
+### Web Summarizer Chrome Plugin
 > Browser extension for instant web page summarization using AI
 
 **Tech:** JavaScript • Chrome API • NLP • LLMs
 
 ---
 
-### 💬 LocalChat AI
+### LocalChat AI
 > Privacy-focused local AI chatbot running entirely on-device
 
 **Tech:** Python • Ollama • LangChain • RAG
 
 ---
 
-### ❤️ Heartbeat Sound Classifier App
+### Heartbeat Sound Classifier App
 > Mobile health monitoring app using YOLOv8 for heart sound classification
 
 **Tech:** YOLOv8 • Spectrogram Analysis • Mobile ML
@@ -134,21 +134,21 @@
 
 ---
 
-### 🧬 Single-Cell RNA Sequence Data Analysis
+### Single-Cell RNA Sequence Data Analysis
 > Advanced bioinformatics pipeline for gene expression analysis
 
 **Tech:** Python • Pandas • Seaborn • Statistical Analysis
 
 ---
 
-### 🧠 EEG Data Classification using CNNs
+### EEG Data Classification using CNNs
 > Deep learning model for EEG motor imagery classification
 
 **Tech:** TensorFlow • MNE • Librosa • PhysioNet Dataset
 
 ---
 
-### ⚛️ Virtual Lab - Quantum Physics Simulations
+### Virtual Lab - Quantum Physics Simulations
 > Interactive quantum physics experiments for educational purposes
 
 **Tech:** JavaScript • NextJS • Flask • CI/CD
@@ -159,9 +159,9 @@
 
 ---
 
-## 📄 Research Publications
+## Research Publications
 
-### 📚 Conference Papers
+### Conference Papers
 
 **1. The Unfinished Race: Bridging the Gap Between AI Vision Models and Human Motion Perception**
 - **Status:** Accepted at MBCC 2025 (4th-7th June 2025)
@@ -171,9 +171,9 @@
 **2. Spectrogram-Driven Heart Sound Classification using YOLOv8 for Mobile Health Monitoring**
 - **Status:** Published (2024)
 - **Authors:** Verma S., Chadda H.
-- 📖 [View Paper](https://ieeexplore.ieee.org/document/10868008)
+- [View Paper](https://ieeexplore.ieee.org/document/10868008)
 
-### 📑 Journal Papers
+### Journal Papers
 
 **3. Unveiling an Efficient Traffic Light Control Algorithm for Indian Traffic Management System**
 - **Status:** Under Review
@@ -187,13 +187,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sania8&theme=radical&hide_border=true&background=0D1117&ring=667EEA&fire=667EEA&currStreakLabel=667EEA)
 
 ---
 
-### 📈 Leetcode Problem Solving Breakdown
+### Leetcode Problem Solving Breakdown
 
 | Category | Solved | Expertise |
 |:---------|:------:|:----------|
@@ -206,11 +206,11 @@
 
 ---
 
-## 🏅 Research Areas & Expertise
+## Research Areas & Expertise
 
 <div align="center">
 
-| 🧠 Research Area | 💡 Focus | 📊 Impact |
+| Research Area | Focus | Impact |
 |:-----------------|:---------|:----------|
 | **Neuro-AI** | Brain-inspired algorithms | Motion perception models |
 | **Computer Vision** | Object detection, classification | +12% accuracy improvement |
@@ -223,23 +223,23 @@
 
 ---
 
-## 💡 What I'm Currently Working On
+## What I'm Currently Working On
 
-- 🔬 **M.Sc. Thesis Research** in Advanced AI at City St. George's, London
-- 🤖 Building **Multi-Modal AI systems** combining vision + language
-- 📊 Advanced research in **Computer Vision** for real-world applications
-- 📝 Writing research papers on **Transformer architectures**
+- **M.Sc. Thesis Research** in Advanced AI at City St. George's, London
+- Building **Multi-Modal AI systems** combining vision + language
+- Advanced research in **Computer Vision** for real-world applications
+- Writing research papers on **Transformer architectures**
 
 ---
 
-## 📝 Latest Research & Blog Posts
+## Latest Research & Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🧠 [Single-Cell RNA-Seq Data Analysis: Identifying Cell Types in PBMC Samples](https://medium.com/@saniav2711/single-cell-rna-seq-data-analysis-identifying-cell-types-in-pbmc-samples-fe15fed2f078)
+- [Single-Cell RNA-Seq Data Analysis: Identifying Cell Types in PBMC Samples](https://medium.com/@saniav2711/single-cell-rna-seq-data-analysis-identifying-cell-types-in-pbmc-samples-fe15fed2f078)
 <!-- BLOG-POST-LIST:END -->
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
@@ -255,7 +255,7 @@ I'm always excited to collaborate on AI research, discuss deep learning innovati
 
 ---
 
-## 💬 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
 
@@ -267,15 +267,15 @@ I'm always excited to collaborate on AI research, discuss deep learning innovati
 
 <div align="center">
 
-### 👀 Profile Views
+### Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sania-verma&color=667eea&style=for-the-badge)
 
-### ⭐️ From [Sania Verma](https://github.com/sania-verma)
+### From [Sania Verma](https://github.com/sania-verma)
 
 **"Deep Learning is not just about algorithms; it's about understanding intelligence itself."**
 
-**Thanks for visiting! Let's push the boundaries of AI together! 🚀🧠**
+**Thanks for visiting! Let's push the boundaries of AI together!**
 
 </div>
 

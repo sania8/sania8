@@ -17,12 +17,12 @@
 
 ## 🚀 About Me
 
-- 💼 **AI ** specializing in Python, Flask, and AI-powered applications
-- 🧮 Built **MathSolver Pro** - An AI-powered math learning platform with 12+ features
-- 💾 Solved **150+ SQL questions** on LeetCode - Expert in database optimization
+- 💼 AI and Deep Learning specialist, experience in building end-to-end solutions with indepth-research take and angle behind algorihms like (CNNs, DeepNetworks, Yolo) 
+- 🧮 Built **MathSolver Pro** - An AI-powered math learning platform with intuitive features involving (solve the equation, explain the answer, worksheet and others)
+- 💾 Solved **around 150 SQL questions** on LeetCode - Optimizing the database
 - 🤖 Passionate about **AI/ML**, **Data Science**, and **Backend Development**
-- 🎯 Currently exploring **Large Language Models** and **Agentic AI**
-- 📊 Love creating **data visualizations** with Plotly, D3.js, and Matplotlib
+- 🎯 Currently exploring reasoning behind **Large Language Models** and **Agentic AI** 
+- 📊 Ex-Computer Vision Intern at Graymatics, built end-to-end real-time object detection pipelines ![Link](https://sania8.github.io/Video-analytics-graymatics/)
 
 ---
 
@@ -32,8 +32,8 @@
 
 | 🎯 Achievement | 📊 Count | 🔗 Platform |
 |:---------------|:---------|:------------|
-| **SQL Problems Solved** | 150+ | LeetCode |
-| **Projects Deployed** | 10+ | Render, Vercel |
+| **SQL Problems Solved** | 150 | LeetCode |
+| **Projects Deployed** | 10+ | AWS |
 | **AI Projects Built** | 5+ | GitHub |
 | **Contributions** | 200+ | Open Source |
 
@@ -75,7 +75,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 

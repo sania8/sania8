@@ -30,7 +30,7 @@
 
 ## 🏆 Achievements & Impact
 
-<div align="center">
+<div>
 
 🎯 Achievement 
 

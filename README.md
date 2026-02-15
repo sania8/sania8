@@ -34,11 +34,11 @@
 
 🎯 Achievement 
 
-**Research Papers Published**  2 International Conferenes, 2 Journals (In Press)
+1. **Research Papers Published**  2 International Conferenes, 2 Journals (In Press)
 
-**AI Projects Deployed** 10+ GitHub/Render/AWS 
+2. **AI Projects Deployed** 10+ GitHub/Render/AWS 
 
-**Best Researcher Award** Received an honour as a Best Researcher in the track "True IoT in digital agriculture" in G2O Symposium awarded by Graphic Era (Deemed to be) University, Uttrakhand, India
+3. **Best Researcher Award** Received an honour as a Best Researcher in the track "True IoT in digital agriculture" in G2O Symposium awarded by Graphic Era (Deemed to be) University, Uttrakhand, India
 
 </div>
 

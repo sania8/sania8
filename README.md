@@ -191,12 +191,11 @@
 
 <div align="center">
   
-![Sania's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sania-verma&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sania8&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sania-verma&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sania8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sania-verma&theme=radical&hide_border=true&background=0D1117&ring=667EEA&fire=667EEA&currStreakLabel=667EEA)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sania8&theme=radical&hide_border=true&background=0D1117&ring=667EEA&fire=667EEA&currStreakLabel=667EEA)
 
 </div>
 
@@ -212,7 +211,7 @@
 
 | Category | Solved | Expertise |
 |:---------|:------:|:----------|
-| **SQL** | 150 | ⭐⭐⭐⭐⭐ |
+| **SQL** | 50 | ⭐⭐⭐⭐⭐ |
 | **Easy** | 30+ | ⭐⭐⭐⭐ |
 | **Medium** | 29+ | ⭐⭐⭐⭐ |
 | **Hard** | 10+ | ⭐⭐⭐ |

@@ -131,7 +131,7 @@
 
 **Tech:** YOLOv8 • Spectrogram Analysis • Mobile ML
 
-📄 [Published Paper](https://arxiv.org/paper-link) - Accepted at MBCC 2025
+📄 [Published Paper](https://arxiv.org/paper-link) - **Accepted at MBCC 2025**
 
 ---
 
@@ -251,10 +251,8 @@
 ## 💡 What I'm Currently Working On
 
 - 🔬 **M.Sc. Thesis Research** in Advanced AI at City St. George's, London
-- 🧠 Exploring **Neuro-symbolic AI** and cognitive architectures
-- 🤖 Building **multi-modal AI systems** combining vision + language
+- 🤖 Building **Multi-Modal AI systems** combining vision + language
 - 📊 Advanced research in **Computer Vision** for real-world applications
-- 🎯 Preparing for **PhD applications** in AI/ML
 - 📝 Writing research papers on **Transformer architectures**
 
 ---
@@ -262,7 +260,7 @@
 ## 📝 Latest Research & Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🧠 [Bridging AI and Human Vision: Motion Perception Research](https://medium.com/@saniav2711/single-cell-rna-seq-data-analysis-identifying-cell-types-in-pbmc-samples-fe15fed2f078)
+- 🧠 [Single-Cell RNA-Seq Data Analysis: Identifying Cell Types in PBMC Samples](https://medium.com/@saniav2711/single-cell-rna-seq-data-analysis-identifying-cell-types-in-pbmc-samples-fe15fed2f078)
 <!-- BLOG-POST-LIST:END -->
 ---
 
@@ -307,11 +305,3 @@ I'm always excited to collaborate on AI research, discuss deep learning innovati
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/sania-verma/sania-verma/output/github-contribution-grid-snake.svg)
-
-</div>

@@ -19,7 +19,7 @@
 
 - 🎓 **M.Sc. in Artificial Intelligence** @ City St. George's University of London (2025-2026)
 - 🎓 **B.Tech. in Mechanical Engineering** (CS Specialization) @ DEI, Agra (8.1 CGPA)
-- 🧠 **AI Algorithm Engineer Intern** @ Graymatics Pvt. Ltd., Singapore
+- 🧠 **AI Algorithm Engineer Intern** @ Graymatics Pvt. Ltd., Singapore !(Link to projects)[https://sania8.github.io/Video-analytics-graymatics/]
 - 🔬 Former Research Intern @ **Georgia Tech, Peking University, IIT Mandi**
 - 🧮 Built **SolWise & MathSolver Pro** - AI-powered learning platforms with features inclusive (Solving equation, explaining answer, worksheet generation and others)
 - 💾 Solved **nearly 150 SQL problems** on LeetCode - Experience in optimizing database
@@ -34,11 +34,9 @@
 
 | 🎯 Achievement | 📊 Impact | 🏢 Organization |
 |:---------------|:----------|:----------------|
-| **Improved CV Model Accuracy** | +12% | Graymatics, Singapore |
-| **Transformer Task Accuracy** | 85% (Sim) / 65% (Real) | IIT Mandi |
-| **SQL Problems Solved** | 150+ | LeetCode |
 | **Research Papers Published** | 2 | Conferenes | 2 | Journals (In Press)
-| **AI Projects Deployed** | 10+ | GitHub/Render |
+| **AI Projects Deployed** | 10+ | GitHub/Render/AWS |
+| **Best Researcher Award** | 
 
 </div>
 

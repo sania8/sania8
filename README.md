@@ -156,7 +156,7 @@
 
 **Ministry of Education Funded Project**
 
-🔗 [Explore Virtual Labs](https://virtual-labs-dei.netlify.app)
+🔗 [Explore Virtual Labs](https://github.com/virtual-labs/engineers-forum/issues/855)
 
 ---
 

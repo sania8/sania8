@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Deep+Learning+Enthusiast+%F0%9F%A7%A0;Neuro-AI+Researcher+%F0%9F%A4%96;AI+%26+ML+Engineer+%F0%9F%9A%80;Computer+Vision+Expert+%F0%9F%91%81%EF%B8%8F;SQL+%26+Data+Science+Pro+%F0%9F%93%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Deep+Learning+Enthusiast+%F0%9F%A7%A0;Neuro-AI+Researcher+%F0%9F%A4%96;AI+%26+ML+Engineer+%F0%9F%9A%80;Computer+Vision+%F0%9F%91%81%EF%B8%8F;SQL+%26+Data+Science+%F0%9F%93%8A" alt="Typing SVG" />
 </div>
 
 ---
@@ -19,12 +19,12 @@
 
 - 🎓 **M.Sc. in Artificial Intelligence** @ City St. George's University of London (2025-2026)
 - 🎓 **B.Tech. in Mechanical Engineering** (CS Specialization) @ DEI, Agra (8.1 CGPA)
-- 🧠 **AI Algorithm Engineer** @ Graymatics Pvt. Ltd., Singapore
+- 🧠 **AI Algorithm Engineer Intern** @ Graymatics Pvt. Ltd., Singapore
 - 🔬 Former Research Intern @ **Georgia Tech, Peking University, IIT Mandi**
-- 🧮 Built **SolWise & MathSolver Pro** - AI-powered learning platforms with 12+ features
-- 💾 Solved **150+ SQL problems** on LeetCode - Database optimization expert
+- 🧮 Built **SolWise & MathSolver Pro** - AI-powered learning platforms with features inclusive (Solving equation, explaining answer, worksheet generation and others)
+- 💾 Solved **nearly 150 SQL problems** on LeetCode - Experience in optimizing database
 - 📊 Published **4 research papers** in Computer Vision, AI, and Traffic Management
-- 🎯 Specializing in **Computer Vision**, **LLMs**, **Neuro-AI**, and **Deep Learning**
+- 🎯 Specializing in **Computer Vision**, **LLMs**, **AI**, and **Deep Learning**
 
 ---
 
@@ -35,67 +35,12 @@
 | 🎯 Achievement | 📊 Impact | 🏢 Organization |
 |:---------------|:----------|:----------------|
 | **Improved CV Model Accuracy** | +12% | Graymatics, Singapore |
-| **LLM Factual Accuracy Boost** | +21% | Peking University |
-| **Token Usage Optimization** | -17% | Peking University |
 | **Transformer Task Accuracy** | 85% (Sim) / 65% (Real) | IIT Mandi |
 | **SQL Problems Solved** | 150+ | LeetCode |
-| **Research Papers Published** | 4 | International Journals |
+| **Research Papers Published** | 2 | Conferenes | 2 | Journals (In Press)
 | **AI Projects Deployed** | 10+ | GitHub/Render |
 
 </div>
-
----
-
-## 💼 Professional Experience
-
-### 🔬 AI Algorithm Engineer | Graymatics Pvt. Ltd., Singapore
-**Aug 2025 – Present**
-- 🎯 Improved computer vision model prediction accuracy by **12%** using CNN quantization
-- ⚡ Built end-to-end ML pipelines for real-time surveillance analytics
-- 🔧 Optimized deep learning models for production deployment
-
-### 🧪 Project Assistant | Peking University, Beijing, China
-**Jun 2025 – Aug 2025** | *Advisor: Dr. Hao Tang*
-- 🤖 Built financial domain-specific GPT chatbot using **online GRPO**
-- 📈 Improved factual accuracy by **21%** and response consistency by **24%**
-- ⚙️ Achieved **17% reduction in token usage** through optimization
-- 🔧 Fine-tuned multiple LLM architectures on curated financial datasets
-
-### 🤖 Research Intern | IIT Mandi, India
-**Jun 2025 – Jul 2025** | *Advisor: Dr. Narendra Kumar Dhar*
-- 🧠 Designed multi-head **Transformer architecture** for robotic action decomposition
-- 🎯 Achieved **85% task accuracy** in simulation, **65%** on physical robot
-- 🔄 Demonstrated effective temporal reasoning and subtask generalization
-
-### 🧠 Neuro-AI Researcher & AI Engineer | Georgia Tech, USA
-**Apr 2024 – Jan 2025** | *Advisor: Dr. Apurva Ratan Murthy*
-- 🌟 Developed **brain-inspired deep learning algorithms** for motion perception
-- 🔬 Conducted undergraduate thesis on **Neuro-AI fusion**
-- 📊 Leveraged computational neuroscience to evaluate biological vs computational systems
-
-### 📊 Research Intern | DEI, Agra, India
-**Sep 2024 – Nov 2024**
-- 🧪 Analyzed real-time **EEG datasets** using advanced signal processing
-- 🔍 Applied ML techniques to extract meaningful neural activity patterns
-- 📈 Enabled impactful interpretations through statistical methods
-
-### 🚦 Research Intern | Graphic Era University, Dehradun, India
-**Jun 2023 – Aug 2023** | *Advisor: Dr. Santosh Kumar*
-- 🚗 Analyzed Indian traffic patterns for automated traffic light control
-- 🎮 Used **SUMO & TraCI** for real-world simulation
-- 📊 Applied data visualization with **Matplotlib & Plotly**
-
-### 🔬 Project Intern | DEI, Agra, India
-**Aug 2022 – Feb 2024** | *Advisor: Prof. Sukhdev Roy*
-- ⚛️ Developed **Quantum Physics simulations** using JavaScript, NextJS
-- 🛠️ Implemented CI/CD pipelines for Virtual Lab project
-- 🤝 Collaborated with multidisciplinary team on Ministry of Education project
-
-### 🎓 AI/ML Intern & Educator | Hankernest Technologies
-**May 2022 – Jul 2023**
-- 🧠 Built **EEG Motor Data Classifier** using Librosa, MNE, Matplotlib
-- 👨‍🏫 Mentored students in Python, AI, Deep Learning, and NLP
-- 🔧 Worked extensively with TensorFlow, Keras, OpenCV, MNE-Python
 
 ---
 
@@ -227,7 +172,7 @@
 **2. Spectrogram-Driven Heart Sound Classification using YOLOv8 for Mobile Health Monitoring**
 - **Status:** Published (2024)
 - **Authors:** Verma S., Chadda H.
-- 📖 [View Paper](https://paper-link.com)
+- 📖 [View Paper](https://ieeexplore.ieee.org/document/10868008)
 
 ### 📑 Journal Papers
 
@@ -267,10 +212,10 @@
 
 | Category | Solved | Expertise |
 |:---------|:------:|:----------|
-| **SQL** | 150+ | ⭐⭐⭐⭐⭐ Expert |
-| **Easy** | 200+ | ⭐⭐⭐⭐ |
-| **Medium** | 150+ | ⭐⭐⭐⭐ |
-| **Hard** | 50+ | ⭐⭐⭐ |
+| **SQL** | 150 | ⭐⭐⭐⭐⭐ |
+| **Easy** | 30+ | ⭐⭐⭐⭐ |
+| **Medium** | 29+ | ⭐⭐⭐⭐ |
+| **Hard** | 10+ | ⭐⭐⭐ |
 
 </div>
 
@@ -317,12 +262,8 @@
 ## 📝 Latest Research & Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- 🧠 [Bridging AI and Human Vision: Motion Perception Research](https://blog-link.com)
-- 💾 [150 SQL Problems: Complete LeetCode Journey](https://blog-link.com)
-- 🤖 [Fine-tuning LLMs for Financial Domain](https://blog-link.com)
-- 🔬 [Neuro-AI Fusion: The Future of Computing](https://blog-link.com)
+- 🧠 [Bridging AI and Human Vision: Motion Perception Research](https://medium.com/@saniav2711/single-cell-rna-seq-data-analysis-identifying-cell-types-in-pbmc-samples-fe15fed2f078)
 <!-- BLOG-POST-LIST:END -->
-
 ---
 
 ## 📫 Let's Connect!

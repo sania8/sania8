@@ -191,7 +191,7 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sania8&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?user=sania8&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF)
 
 <!-- Alternative Top Languages -->
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sania8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF)
@@ -203,13 +203,7 @@
 
 ---
 
-## 🎯 LeetCode Stats
-
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/sania_verma123?theme=dark&font=Nunito&ext=contest)
-
-### 📈 Problem Solving Breakdown
+### 📈 Leetcode Problem Solving Breakdown
 
 | Category | Solved | Expertise |
 |:---------|:------:|:----------|

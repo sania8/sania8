@@ -258,7 +258,7 @@ I started in **mechanical engineering**, so I like AI that touches the physical 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sania8&theme=radical&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com/?user=sania8&theme=radical&hide_border=true&background=0D1117&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7" alt="GitHub streak"/>
 
 <br/>
 
@@ -267,7 +267,7 @@ I started in **mechanical engineering**, so I like AI that touches the physical 
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sania8&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution graph"/>
+<img src="https://ghchart.rshah.org/7aa2f7/sania8" width="100%" alt="Contribution calendar"/>
 
 <br/>
 

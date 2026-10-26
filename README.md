@@ -13,6 +13,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Deep+Learning+Enthusiast+%F0%9F%A7%A0;Neuro-AI+Researcher+%F0%9F%A4%96;AI+%26+ML+Engineer+%F0%9F%9A%80;Computer+Vision+%F0%9F%91%81%EF%B8%8F;SQL+%26+Data+Science+%F0%9F%93%8A" alt="Typing SVG" />
 </div>
 
+<div align="center">
+
+## 🚀 Featured: EMNLP 2026 People Graph
+
+<a href="https://emnlp-graph.saniav2711.workers.dev">
+  <img src="assets/emnlp-demo.gif" alt="EMNLP 2026 People Graph demo" width="850">
+</a>
+
+### **[🔗 Explore the live project](https://emnlp-graph.saniav2711.workers.dev)** · **[📂 View the code](https://github.com/sania8/YOUR-REPO-NAME)**
+
+</div>
+
 ---
 
 ## About Me
